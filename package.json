@@ -11,10 +11,13 @@
     "url": "git+https://github.com/DY9040/readme-generator.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "David Young",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DY9040/readme-generator/issues"
   },
-  "homepage": "https://github.com/DY9040/readme-generator#readme"
+  "homepage": "https://github.com/DY9040/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
