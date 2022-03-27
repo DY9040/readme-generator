@@ -20,8 +20,8 @@ This project is intended to help create a professional README file. By simply a 
 Go to github and download the files from my repo.
 
 ## Usage
-![readmevideo](/assets/video/Readmevideo.webm "Readmevideo")
 ![screenshot](/assets/images/screenshot.PNG "screenshot") 
+![readmevideo](https://watch.screencastify.com/v/Xw0ts4IlRtR2z3W1AWB1 "Readmevideo")
 Open up your code editor and make sure you are in the root directory of the files downloaded. In your terminal type NPM i, this will install node. Once that is downloaded type Node index.js, the screen will prompt you with questions answer all of them. Once all questions are completed your README will be located in the dist folder.
 
 ## License
