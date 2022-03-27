@@ -22,7 +22,7 @@
 
 ## Usage
 
-    ![screenshot](assets/images/screenshot.png). Open up your code editor and make sure you are in the root directory of the files downloaded. In your terminal type NPM i, this will install node. Once that is downloaded type Node index.js, the screen will prompt you with questions answer all of them. Once all questions are completed your README will be located in the dist folder.
+    ![ScreenShot](/assets/images/screenshot.PNG). Open up your code editor and make sure you are in the root directory of the files downloaded. In your terminal type NPM i, this will install node. Once that is downloaded type Node index.js, the screen will prompt you with questions answer all of them. Once all questions are completed your README will be located in the dist folder.
 
 ## License
 
@@ -34,7 +34,8 @@
 
 ## Credits
 
-    coding-boot-camp.github.io/full-stack/github/professional-readme-guide  	https://shields.io
+    https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide	
+    https://shields.io
 
 ## Contributions
 
